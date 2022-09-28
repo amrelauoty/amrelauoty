@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Elauoty</h1>
 <h3 align="center">A Passionate Business Intelligence Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrelauoty&label=Profile%20views&color=0e75b6&style=flat-square" alt="amrelauoty" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrelauoty&label=Profile%20views&color=fce803&style=plastic" alt="amrelauoty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrelauoty" alt="amrelauoty" /></a> </p>
 
@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects in Power BI are available at [https://www.novypro.com/profile_projects/amr-elauoty](https://www.novypro.com/profile_projects/amr-elauoty)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amr-elauoty/](https://www.linkedin.com/in/amr-elauoty/)
+
+- 💬 Ask me about **Power BI, Data Warehouses, SQL**
 
 - 📫 How to reach me **amr.ehab.elauoty@gmail.com**
 
@@ -31,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelauoty&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="amrelauoty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrelauoty&show_icons=true&theme=gruvbox&locale=en" alt="amrelauoty" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrelauoty&show_icons=true&theme=radical&locale=en" alt="amrelauoty" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelauoty&theme=dark" alt="amrelauoty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelauoty&theme=default" alt="amrelauoty" /></p>
