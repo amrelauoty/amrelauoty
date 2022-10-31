@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrelauoty" alt="amrelauoty" /></a> </p>
 
-- 🌱 I’m currently learning **Tableau, SAP BO**
+- 🌱 I’m currently learning **Data Warehousing, Data Modeling**
 
 - 👨‍💻 All of my projects in Power BI are available at [https://www.novypro.com/profile_projects/amr-elauoty](https://www.novypro.com/profile_projects/amr-elauoty)
 
